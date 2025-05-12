@@ -1,6 +1,6 @@
-👋🦝​ Hello, moi c'est d0riane alias @rHACKoon ou @rHACK00n selon l'humeur (et la disponibilité du pseudo...)
+👋🦝​ Hello, moi c'est **d0riane** alias **@rHACKoon** ou **@rHACK00n** selon l'humeur (et la disponibilité du pseudo...)
 
-Mon parcours est déjà bien varié : une thèse sur les blockchains, un passage d'une année dans le pentest, un séjour à l'université pour enseigner pendant 2 ans, une année à étudier les attaques cryptographique hardware et maintenant je suis analyste CTI/OSINT.
+Mon parcours est déjà bien varié : une thèse sur les **blockchains**, un passage d'une année dans le **pentest**, un séjour à l'université pour **enseigner** pendant 2 ans, une année à étudier les **attaques cryptographique hardware** et maintenant je suis **analyste CTI/OSINT**.
 
 <!---
 rHACK00n/rHACK00n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
