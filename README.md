@@ -23,7 +23,7 @@ Depuis 2024, je participe à des CTF d'OSINT. Voici mes différents résultats :
 | 2025     | 👢 **Le Bruit des Bottes**               | Oscar Zulu OSINT Crew           | 🥉 **3ème**                        | [**Les blaireaux des légendes**](https://github.com/Les-Blaireaux-des-Legendes) |
 | 2024     | 🕵️ **Stranger Case CTF OSINT**           | ESNA de Bretagne                   |  **12ème**                      |**null**         |
 | 2024     | 🚔 **CTE Le Principe de Locard**         | Gendarmerie Nationale              |    **17ème**                    | **BGP**          |
-| 2024     | 🕵️ **Trace Labs OSINT Search Party**     | Trace Labs                      | **20ème**                          | **Chartreuse Intelligence Agency** |
+| 2024     | 🕵️ **Trace Labs OSINT Search Party**     | Trace Labs                      | **11ème**                          | **Chartreuse Intelligence Agency** |
 | 2024     | 💊 **Medileak part2 - Petite finale en ligne**| Oscar Zulu OSINT Crew          |🥇 **1er**                        | **BG** |
 | 2024     | 💊 **Medileak part1 - Qualifications**   | Oscar Zulu OSINT Crew              |    **12ème**                    | **BG** |
 | 2024     | 🦊 **APT Hunter**                        | Aix Ynov Campus                    | 🥉 **3ème**                      | **null** |
