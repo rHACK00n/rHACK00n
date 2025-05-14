@@ -90,18 +90,60 @@ L'article examine les vulnérabilités spécifiques des établissements de sant�
 <details>
 <summary> Sécurité des données de santé : pourquoi ce secteur est-il particulièrement ciblé par les cyberattaques ? (2021) </summary>
 
-[- Sécurité des données de santé : pourquoi ce secteur est-il particulièrement ciblé par les cyberattaques ? (2021)
+[Sécurité des données de santé : pourquoi ce secteur est-il particulièrement ciblé par les cyberattaques ? (2021)
 ](https://www.itrust.fr/securite-des-donnees-de-sante-pourquoi-ce-secteur-est-il-particulierement-cible-par-les-cyberattaques/)
 
 Cet article examine les raisons pour lesquelles les établissements de santé sont des cibles privilégiées des cybercriminels. Il met en évidence la valeur des données médicales, la criticité des infrastructures hospitalières et les vulnérabilités des systèmes d'information. 
 </details>
 
 ## 👩‍🔬​ Articles de Recherche
-- Gramchain : améliorer les protocoles de suivi des patients porteurs de BHRe en utilisant la blockchain (2023)
-- Using Homomorphic hashes in coded blockchains - SERIAL20 (2020)
-- [Blockchain et stockage efficace - Thèse (2020)](https://theses.fr/2020ESAE0048)
-- BlockHouse: Blockchain-based distributed storehouse system - 9th Latin-American Symposium on Dependable Computing (2019)
-- Erasure code-based low storage blockchain node - 2018 IEEE International Conference on Internet of Things (2018)
+
+<details>
+<summary> Gramchain : améliorer les protocoles de suivi des patients porteurs de BHRe en utilisant la blockchain (2023) </summary>
+  
+[Gramchain : améliorer les protocoles de suivi des patients porteurs de BHRe en utilisant la blockchain (2023)](https://openscience.fr/IMG/pdf/iste_roisi23v3nspe_1.pdf)
+
+
+L'article présente Gramchain, une solution basée sur une blockchain privée pour améliorer le suivi des patients porteurs de bactéries hautement résistantes émergentes (BHRe). Face aux défis de partage d'information entre établissements de santé, Gramchain propose une approche conforme au RGPD, centrée sur le patient, avec un contrôle d'accès granulaire. Cette solution vise à renforcer la traçabilité et la sécurité des données de santé sensibles.
+</details>
+
+<details>
+<summary> Using Homomorphic hashes in coded blockchains - SERIAL20 (2020) </summary>
+  
+[Using Homomorphic hashes in coded blockchains - SERIAL20 (2020)](https://arxiv.org/abs/2010.04607)
+
+L’article aborde un problème de scalabilité des blockchains : leur taille croissante. Il explore l’approche des coded blockchains, où les utilisateurs ne stockent que des fragments codés, allégeant ainsi le stockage. Pour contrer la propagation de fragments erronés par des nœuds malveillants, les auteurs proposent d’y intégrer des hachages homomorphes, permettant une détection immédiate des erreurs sans déchiffrement. L’efficacité de cette solution est étudiée théoriquement et par simulation.
+  
+</details>
+
+  
+<details>
+<summary> Blockchain et stockage efficace - Thèse (2020) </summary>
+  
+[Blockchain et stockage efficace - Thèse (2020)](https://theses.fr/2020ESAE0048)
+
+Cette thèse aborde un défi majeur des blockchains : leur taille croissante, rendant difficile leur stockage intégral par tous les participants et menaçant la décentralisation. L’auteur propose un nouveau type de nœud, appelé _low storage_ (LS) node, qui stocke uniquement des fragments codés des blocs. Ce système permet de préserver la décentralisation tout en réduisant les exigences de stockage. Le manuscrit présente également _BlockHouse_, une solution utilisant des contrats intelligents pour la location d’espace de stockage entre particuliers, garantissant des paiements sécurisés et automatiques via des preuves de récupération des données.
+
+</details>
+
+<details>
+<summary> BlockHouse: Blockchain-based distributed storehouse system - 9th Latin-American Symposium on Dependable Computing (2019) </summary>
+  
+[BlockHouse: Blockchain-based distributed storehouse system - 9th Latin-American Symposium on Dependable Computing (2019)](https://ieeexplore.ieee.org/abstract/document/8995675/)
+
+Cet article présente _BlockHouse_, un système de stockage décentralisé/P2P entièrement basé sur des blockchains privées où chaque participant peut louer son espace de stockage inutilisé pour héberger les données d'autres membres. Ce système utilise un contrat intelligent et un mécanisme de preuve de récupérabilité (Proof of Retrievability) pour vérifier automatiquement à une fréquence fixe si le fichier est toujours hébergé. En plus de garantir la transparence, la blockchain permet une meilleure intégration des paiements associés à ce type de système (paiements réguliers, séquestration pour assurer le bon comportement des utilisateurs, ...). À l'exception des données transférées entre le client et le serveur, toutes les actions passent par un contrat intelligent dans la blockchain afin d'enregistrer, payer et sécuriser l'intégralité du processus de stockage.
+
+</details>
+
+<details>
+<summary> Erasure code-based low storage blockchain node - 2018 IEEE International Conference on Internet of Things (2018) </summary>
+  
+[Erasure code-based low storage blockchain node - 2018 IEEE International Conference on Internet of Things (2018)](https://ieeexplore.ieee.org/abstract/document/8726839)
+
+Le concept de registre décentralisé suppose que chaque nœud d’un réseau blockchain stocke l’ensemble de la blockchain. Cependant, la taille des blockchains populaires pousse certains nœuds à utiliser des clients légers, ce qui peut entraîner une centralisation. Pour résoudre ce problème, nous proposons des nœuds à faible stockage utilisant des codes d’effacement pour stocker des fragments réduits de données. Ce système permet de reconstruire facilement un bloc à partir de quelques nœuds et encourage ainsi la décentralisation, même avec l’augmentation de la taille de la blockchain.
+
+</details>
+ 
 
 
 
