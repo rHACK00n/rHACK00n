@@ -1,3 +1,4 @@
+
 👋🦝​ Hello, moi c'est **d0riane** alias **@rHACKoon** ou **@rHACK00n** selon l'humeur (et la disponibilité du pseudo...)
 
 Mon parcours est déjà bien varié : une thèse sur les **blockchains**, un passage d'une année dans le **pentest**, un séjour à l'université pour **enseigner** pendant 2 ans, une année à étudier les **attaques cryptographiques hardware** et je suis maintenant **analyste CTI/OSINT**.
@@ -147,7 +148,7 @@ Le concept de registre décentralisé suppose que chaque nœud d’un réseau bl
 
 # 📢 Présentations
 
-- CTI et OSINT appliqué : Exemple d'une investigation d'OSINT - Securimag, Grenoble - 2025 - 🇨🇵​
+- CTI et OSINT appliqués : Exemple d'une investigation d'OSINT - Securimag, Grenoble - 2025 - 🇨🇵​
 - Introduction à la CTI et l'OSINT - Securimag, Grenoble - 2025 - 🇨🇵​
 - Le business des documents falsifiés : Enquête sur un réseau tentaculaire - FIC, Lille - 2025 - 🇨🇵​
 - Introduction à la cryptographie - Securimag, Grenoble - 2024 - 🇨🇵​
