@@ -1,8 +1,8 @@
 👋🦝​ Hello, moi c'est **d0riane** alias **@rHACKoon** ou **@rHACK00n** selon l'humeur (et la disponibilité du pseudo...)
 
-Mon parcours est déjà bien varié : une thèse sur les **blockchains**, un passage d'une année dans le **pentest**, un séjour à l'université pour **enseigner** pendant 2 ans, une année à étudier les **attaques cryptographique hardware** et maintenant je suis **analyste CTI/OSINT**.
+Mon parcours est déjà bien varié : une thèse sur les **blockchains**, un passage d'une année dans le **pentest**, un séjour à l'université pour **enseigner** pendant 2 ans, une année à étudier les **attaques cryptographiques hardware** et je suis maintenant **analyste CTI/OSINT**.
 
-Pour résumer : je m'intéresse donc aux blockchains, à l'OSINT et la CTI, à la cybersécu en général et... un peu à tout au final !
+Pour résumer : je m'intéresse donc aux blockchains, à l'OSINT et la CTI, à la cybersécurité en général et... à beaucoup d'autres choses !
 
 <!---
 rHACK00n/rHACK00n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
