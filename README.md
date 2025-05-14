@@ -145,6 +145,22 @@ Le concept de registre décentralisé suppose que chaque nœud d’un réseau bl
 </details>
  
 
+# 📢 Présentations
 
+- CTI et OSINT appliqué : Exemple d'une investigation d'OSINT - Securimag, Grenoble - 2025 - 🇨🇵​
+- Introduction à la CTI et l'OSINT - Securimag, Grenoble - 2025 - 🇨🇵​
+- Le business des documents falsifiés : Enquête sur un réseau tentaculaire - FIC, Lille - 2025 - 🇨🇵​
+- Introduction à la cryptographie - Securimag, Grenoble - 2024 - 🇨🇵​
+- Gluptega, quand la blockchain rencontre les malwares - Securimag, Grenoble - 2023 - 🇨🇵​
+- GRAMCHAIN : Utilisation d'une blockchain pour le partage de certains types de données de santé - Séminaire Grenoblois LIG-SIGMA, Grenoble - 2022 - 🇨🇵​
+- Nouveau noeud Blockchain - Séminaire Grenoblois LJK-CASC, Grenoble - 2022 - 🇨🇵​
+- Introduction à la cryptographie - Securimag, Grenoble - 2022 - 🇨🇵​
+- BlockHouse: Blockchain-based distributed storehouse system - Natal, Brésil - 2019 - 🇬🇧​
+- Blockchain et logiciels de minage indésirables - OSSIR, RéSIST, Toulouse - 2019 - 🇨🇵​
+- Erasure code-based low storage blockchain node - Halifax, Canada - 2018 - 🇬🇧​
+- Blockchain et logiciels de minage indésirables - Journée sécu du réseau Min2Rien, Polytech Lille - 2018 - 🇨🇵​
+- Blockchain : les avancées en sécurité - Soirée cryptomonnaie : Crime et Sécurité, Toulouse - 2018 - 🇨🇵​
+- Nouveau type de noeud blockchain basé sur les codes à effacement - Séminaire Toulousain en Réseau, Toulouse - 2018 - 🇨🇵​
+- Phishing, le retour : état du phishing dans le monde, moyen de lutte et formation des utilisateurs par la technique du "phishing pédagogique" - OSSIR, RéSIST, Toulouse - 2017 - 🇨🇵​
 
 
