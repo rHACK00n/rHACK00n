@@ -19,14 +19,15 @@ Depuis 2024, je participe à des CTF d'OSINT. Voici mes différents résultats :
 
 | 🗓️ Année | 🏁 CTF                               | 🏢 Organisateur                    | 🏆 Résultat                        |👥​ Team name       |  
 |----------|--------------------------------------|------------------------------------|-----------------------------------|-----------------------------------|
+| 2025     | 💊 **Medileak 2 - Qualifications**       | Oscar Zulu OSINT Crew           |  **10ème**/138                      | **BGP** |
 | 2025      | 💠​ **Le bleuet CTF**                | L'AEGE                              | 🥉 **3ème**/203                      | **BGP**          |
 | 2025     | 🕵️ **Trace Labs OSINT Search Party**     | Trace Labs                      | **20ème**/128                         | **Team Osint-X** |
 | 2025     | 👢 **Le Bruit des Bottes**               | Oscar Zulu OSINT Crew           | 🥉 **3ème**/219                        | [**Les blaireaux des légendes**](https://github.com/Les-Blaireaux-des-Legendes) |
 | 2024     | 🕵️ **Stranger Case CTF OSINT**           | ESNA de Bretagne                   |  **12ème**/59                      |**Stranger Team**         |
 | 2024     | 🚔 **CTE Le Principe de Locard**         | Gendarmerie Nationale              |    **17ème**/150                    | **BGP**          |
 | 2024     | 🕵️ **Trace Labs OSINT Search Party**     | Trace Labs                      | **11ème**/124                          | **Chartreuse Intelligence Agency** |
-| 2024     | 💊 **Medileak part2 - Petite finale en ligne**| Oscar Zulu OSINT Crew          |🥇 **1er**/93                        | **BG** |
-| 2024     | 💊 **Medileak part1 - Qualifications**   | Oscar Zulu OSINT Crew              |    **12ème**/98                    | **BG** |
+| 2024     | 💊 **Medileak - Petite finale en ligne**| Oscar Zulu OSINT Crew          |🥇 **1er**/93                        | **BG** |
+| 2024     | 💊 **Medileak - Qualifications**   | Oscar Zulu OSINT Crew              |    **12ème**/98                    | **BG** |
 | 2024     | 🦊 **APT Hunter**                        | Aix Ynov Campus                    | 🥉 **3ème**/74                      | **null** |
 
 # 📝​ Articles
