@@ -19,6 +19,7 @@ Depuis 2024, je participe à des CTF d'OSINT. Voici mes différents résultats :
 
 | 🗓️ Année | 🏁 CTF                               | 🏢 Organisateur                    | 🏆 Résultat                        |👥​ Team name       |  
 |----------|--------------------------------------|------------------------------------|-----------------------------------|-----------------------------------|
+| 2025     | 🔍​ **La Hunt - Qualifications**       | L'AEGE                             |  **4ème**/63                      |  [**Les blaireaux des légendes**](https://github.com/Les-Blaireaux-des-Legendes)  |
 | 2025     | 💊 **Medileak 2 - Qualifications**       | Oscar Zulu OSINT Crew           |  **10ème**/138                      | **BGP** |
 | 2025      | 💠​ **Le bleuet CTF**                | L'AEGE                              | 🥉 **3ème**/203                      | **BGP**          |
 | 2025     | 🕵️ **Trace Labs OSINT Search Party**     | Trace Labs                      | **20ème**/128                         | **Team Osint-X** |
