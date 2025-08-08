@@ -1,7 +1,7 @@
 
 👋🦝​ Hello, moi c'est **d0riane** alias **@rHACKoon** ou **@rHACK00n** selon l'humeur (et la disponibilité du pseudo...)
 
-Mon parcours est déjà bien varié : une thèse sur les **blockchains**, un passage d'une année dans le **pentest**, un séjour à l'université pour **enseigner** pendant 2 ans, une année à étudier les **attaques cryptographiques hardware** et je suis maintenant **analyste CTI/OSINT**.
+Mon parcours est ~chaotique~ bien varié : une thèse sur les **blockchains**, un passage d'une année dans le **pentest**, un séjour à l'université pour **enseigner** et faire de la **Recherche**, une année à étudier les **attaques cryptographiques hardware** et je suis maintenant **analyste CTI/OSINT**.
 
 Pour résumer : je m'intéresse donc aux blockchains, à l'OSINT et la CTI, à la cybersécurité en général et... à beaucoup d'autres choses !
 
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 🗂️ Résultats CTF 
 
-Depuis 2024, je participe à des CTF d'OSINT. Voici mes différents résultats :
+Depuis 2024, je participe à des CTF d'OSINT, principalement avec l'équipe [**les blaireaux des légendes**](https://github.com/Les-Blaireaux-des-Legendes). Voici mes différents résultats :
 
 ---
 
