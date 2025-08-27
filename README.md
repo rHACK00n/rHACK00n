@@ -5,6 +5,8 @@ Mon parcours est ~chaotique~ bien varié : une thèse sur les **blockchains**, u
 
 Pour résumer : je m'intéresse donc aux blockchains, à l'OSINT et la CTI, à la cybersécurité en général et... à beaucoup d'autres choses !
 
+Sur mon temps libre, je suis également organisatrice et chair de la conférence [**GreHack**](https://grehack.fr/). 
+
 <!---
 rHACK00n/rHACK00n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
